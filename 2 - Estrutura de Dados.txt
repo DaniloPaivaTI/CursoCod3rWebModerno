@@ -1,0 +1,37 @@
+Dados: São tudo o que recebe do Usuário: 3 , m , true, false, "Texto", p, 1,2,3...
+Em seu sentido informacional, um dado é o registro do atributo de um ente, objeto ou fenômeno onde registro 
+indica o ato de registrar, ou seja, é a gravação ou a impressão de caracteres ou símbolos que tenham um
+ significado em algum documento ou suporte físico.
+=============================================================================================================
+                       Estrutura de Dados
+
+Viza 2 Coisas, Organizar e Administrar os Dados.
+
+Ex1: Lista dos Aprovados sendo elas Ordenadas ou Não.
+1 - João
+2 - Ana 
+3 - Gustavo
+4 - Vitor
+Ex2: Fila do Banco. FIFO - (First in First out)
+Ex3: Pilha de Livros. LIFO - (Last In First out)
+Ex4: Estutura de Árvore igual no Windows.
+Música
+     Rap
+       Rock
+           Beatles.mp3
+
+                           Estrutura de Dados Básicos
+                             Int,Real,Letra,Boolean
+
+==============================================================================================================
+
+                        Váriaveis e Contantes (Armazena os Dados neles)
+
+A diferença primordial entre estes dois conceitos é que constantes são valores inalterados 
+e variável é uma entidade capaz de manifestar diferenças em valor, assumindo, inclusive, valores numéricos.
+                        -------                             -----------
+espaço alocado na memória de variável, porque o valor armazenado neste espaço de memória 
+pode ser alterado ao longo do tempo, ou seja, o valor ali alocado é "variável" ao longo do tempo. 
+
+constantes, que é um espaço reservado na memória para armazenar um valor que não muda com o tempo.
+ Por exemplo, o valor PI (3.14159265359...) que nunca vai mudar!

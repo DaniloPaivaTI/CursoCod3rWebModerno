@@ -1,0 +1,39 @@
+Em ciência da computação, um algoritmo é uma sequência finita de ações
+ executáveis que visam obter uma solução para um determinado tipo de problema.
+
+Muito utilizado como exemplo em Fluxograma.
+ex: Receita de Bola etc.
+
+As Ordens dos Algoritimos(Passos) é importante pois podem melhorar o desempenho do Algoritimo.
+
+Aceita Repetição de um mesmo Passo.
+
+--------------------------------------------------------------------------------------------
+
+     Como representar um Algorítimo
+
+*Fluxograma
+*Linguagem Natural: Português, Inglês, Alemão, Espanhol.
+*Linguagem Artificial: C#, Java, PHP, JS, Go, Python.
+*Pseudo-Linguagem.
+ex de Pseudo-Linguagem:
+
+1 Algoritimo "SomoDoisValores"
+2 declare
+3 soma, a, b: inteiro
+4 escreve  ("Digite dois números")
+6 leia (a,b)
+7 soma <- a+b
+8 escreve (soma)
+9 Fim
+
+
+==============================================================================================
+                   Algoritimo vs Linguagem
+
+Baixo Nível:
+     Ela é mais próxima ao Computador. Assembly, muito mais próxima do Hardware, Arquitetura INterna, 
+muitas linhas de códigos para pouca coisa. Executa muito mais rápido.
+
+Alto Nível:
+     Ela é mais próxima do Programador. JAVA, PHP, C, possuem elementos mais próximos do Ser Humano.

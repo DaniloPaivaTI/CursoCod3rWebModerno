@@ -1,0 +1,17 @@
+// Comentário de uma única linha - utiliza: // qualquer comentário não influência no código.
+consolone.log("linhas1");
+/* Comentário de várias Linhas, para fechar
+coloca o finalizador
+*/
+consolone.log("linhas2");
+
+/*
+*Comentário
+* multiplas
+*/
+consolone.log("linhas3");
+
+indicação Livro: Linguagem Ubiqua
+
+Escrever comentário servem para entender melhor dos conceitos.
+Prefira código limpo. Não utilize comentários toda hora.
