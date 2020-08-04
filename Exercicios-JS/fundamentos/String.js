@@ -1,0 +1,17 @@
+const escola = "Cod3r"
+
+console.log(escola.charAt(4))
+/* .charAt(0,1,2,3,4 etc) ele mostra a letra que está no indice que foi pedido dentro do parenteses
+sempre começa do 0 e dá sequência*/
+
+console.log(escola.charCodeAt(3)) // chama na tabela UniCode - código relacionado a tabela UniCode
+console.log(escola.indexOf('3'))// Indice associado ao digito 3 que está na palavra escola
+console.log(escola.substring(1))// Ele vai imprimir a partir do indice 1 pra frente.
+console.log(escola.substring(0,3)) // Aqui ele vai do indice 0 até o 3,porém não inclui ao indice 3
+console.log('Escola '.concat(escola).concat("!"))// Serve para concatenação
+console.log('Escola ' + escola + "!") // Ele concatena tb, o mesmo resultado q o código acima.
+console.log(escola.replace(3, 'e'))//Ele substituiu o 3º indice pela letra e
+console.log('Ana, Maria, Pedro'.split(',')) //Conceito de Array e Rexer ou Ajax.
+
+
+
